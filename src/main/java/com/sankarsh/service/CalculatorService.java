@@ -9,9 +9,6 @@ public class CalculatorService {
 	
 	public double result(CalculatorBean bean) throws Exception {
 		
-//		for(Number i:bean.getValues()) {
-//			System.out.println(i.intValue());
-//		}
 		String type=bean.getType();
 		int k;
 		int res=0;
@@ -77,7 +74,6 @@ public class CalculatorService {
 						break;
 		}
 		}catch (Exception e) {
-			// TODO: handle exception
 			throw e;
 		}
 		if(isInt) {

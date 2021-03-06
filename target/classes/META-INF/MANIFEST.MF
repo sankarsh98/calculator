@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sanky
+Build-Jdk: 14.0.1
+Implementation-Title: calculator
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: calculator
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/calculator/
+Created-By: Maven Integration for Eclipse
+
